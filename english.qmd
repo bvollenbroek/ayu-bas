@@ -1,35 +1,47 @@
 ---
-title: "Invitation"
+engine: knitr
+page-layout: full
 ---
 
-The Wedding of 
-Ayu & Bas
-07.10.2024
+```{css, echo = FALSE}
+.justify {
+  text-align: center
+}
+```
+
+::: {.justify}
+
+![](./IMG_5714.jpeg)
+
+_Der Weg zur zweit ist halb so Weit_
+
+<br>
 
 
-(Will put some nice words: I think either from Philo or Veda)
+::: {.panel}
 
-The Wedding of
-Ayu Paramudita from Indonesia
-&
-Bas Vollenbroek from Holland/the Netherlands?
+<br>
 
-Save the date
-07.10.2024
+__Ayu & Bas__
 
-Ceremony 
-at ....
+_will marry on_
 
-Reception??
-at ....
+__2024-10-07__
 
-Temple .... (name of temple and address, google map link??)
-Semarang, Indonesia
+_in_
 
+__[Semarang, Indonesia](www.test.nl)__
+
+<br>
+
+::: 
+
+<br>
 
 We are happy to invite you, our close friends, to our wedding.
 
-send email for tracking attendence, how??
+__[Sign me up](www.test.nl)__
 
-Wanna put our pics? Which one and where?
+<br>
 
+:::
