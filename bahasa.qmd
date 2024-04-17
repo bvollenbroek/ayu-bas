@@ -1,47 +1,77 @@
 ---
-title: "Undangan"
+engine: knitr
+#title: "Undangan"
 ---
 
-Pawiwahan
-Ayu & Bas
-07.10.2024
+```{css, echo = FALSE}
+.justify {
+  text-align: center
+}
+```
 
+
+![](./IMG_5104_art.jpg)
+
+_Der Weg zur zweit ist halb so Weit_
+
+<br>
+
+
+## __Ayu & Bas__
 
 (Will put some nice words: I think either from Philo or Veda)
 
-Pawiwahan
-Ayu Paramudita 
-Putri dari I Komang Sumardika & Rita Sri Purnami
-(Indonesia)
-&
-Bas Vollenbroek
-Putra dari Gerrit Vollenbroek & Maria Gunnewijk
-(Belanda)
+<br>
+
+{{< pagebreak >}}
+
+### Pawiwahan
+__Om Swastiastu__
+
+Atas Asung Kertha Wara Nugraha Ida Sang Hyang Widhi Wasa dengan penuh sukacita, kami bermaksud menyelenggarakan Upacara Pawiwahan Putri - Putra kami.
 
 
-OM SWASTIASTU
+__Ayu Paramudita__
 
-Atas Asung Kertha Wara Nugraha Ida Sang Hyang Widhi Wasa dengan penuh suka cita, kami akan menyelenggarakan Upacara Pawiwahan Putri - Putra kami. Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila, Bapak / Ibu / Saudara / i. berkenan hadir untuk memberikan do'a restunya pada:
+_Putri dari I Komang Sumardika & Rita Sri Purnami_
 
-07.10.2024
+dengan
 
-Pawiwahan 
-at ....
+__Bas Vollenbroek__
 
-Resepsi??
-at ....
+_Putra dari Gerrit Vollenbroek & Maria Gunnewijk_
 
-di Pura .... (name of temple and address, google map link??)
-Semarang, Indonesia
+<br>
 
+___Upacara Manusa Yadnya Pawiwahan___
 
-Atas kehadiran dan doa restunya, kami sekeluarga mengucapkan terima kasih.
+__7 Oktober 2024__ pukul 09.00 WIB
 
-Kami yang berbahagia
-Keluarga I Komang Sumardika dan Gerrit Vollenbroek
+di __[Pura Agung Giri Natha Semarang](https://maps.app.goo.gl/d9geChkbJJ1JtB4T6)__
 
+<br>
 
-Mohon diisi untuk konfirmasi kehadiran
-send email for tracking attendence, how??
+### Resepsi
+__7 Oktober 2024__ pukul 12.00 - 13.00 WIB
 
+di __[Pura Agung Giri Natha Semarang](https://maps.app.goo.gl/d9geChkbJJ1JtB4T6)__
 
+<br>
+
+Merupakan kehormatan serta kebahagiaan bagi kami apabila, Bapak / Ibu / Saudara / i. berkenan hadir dan memberikan do'a restu kepada Putri - Putra kami.
+
+Atas kehadiran dan doa restunya, kami ucapkan terima kasih.
+
+<br>
+
+_Kami yang berbahagia,_
+
+_Keluarga I Komang Sumardika dan Gerrit Vollenbroek_
+
+<br>
+
+__Om Santhi Santhi Santhi Om__
+
+<br>
+
+### __[Konfirmasi kehadiran](https://forms.gle/VCv5T69utg9H64zN6)__

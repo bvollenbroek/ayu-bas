@@ -1,6 +1,5 @@
 ---
 engine: knitr
-page-layout: full
 ---
 
 ```{css, echo = FALSE}
@@ -11,7 +10,7 @@ page-layout: full
 
 ::: {.justify}
 
-![](./IMG_5714.jpeg)
+![](./IMG_5104.JPEG)
 
 _Der Weg zur zweit ist halb so Weit_
 
