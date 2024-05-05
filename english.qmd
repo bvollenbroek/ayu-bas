@@ -1,46 +1,29 @@
 ---
 engine: knitr
+page-layout: full
 ---
 
 ```{css, echo = FALSE}
 .justify {
   text-align: center
 }
+.big-font {
+  font-size: 4em
+}
+.boxy {
+ padding:15px;
+ font-size: 1.5em;
+}
 ```
 
 ::: {.justify}
 
-![](./IMG_5104.JPEG)
+![](./IMG_5714.jpeg)
 
-_Der Weg zur zweit ist halb so Weit_
+[__Ayu & Bas__ _will marry on_ __7 October 2024__ _in_ [__Semarang__](www.test.nl)]{.big-font}
 
-<br>
-
-
-::: {.panel}
-
-<br>
-
-__Ayu & Bas__
-
-_will marry on_
-
-__2024-10-07__
-
-_in_
-
-__[Semarang, Indonesia](www.test.nl)__
-
-<br>
-
-::: 
-
-<br>
-
-We are happy to invite you, our close friends, to our wedding.
-
-__[Sign me up](www.test.nl)__
-
-<br>
+<button class="btn btn-lg btn-primary boxy" type="button">I'm attending!</button>
 
 :::
+
+

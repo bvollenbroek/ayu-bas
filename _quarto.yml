@@ -5,6 +5,7 @@ website:
   title: "Ayu & Bas"
   search: false
   navbar:
+    title: false
     right:
       - href: english.qmd
         text: 🇬🇧
@@ -13,7 +14,7 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme: sketchy
     css: styles.css
     toc: true
 
