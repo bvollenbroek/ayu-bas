@@ -3,7 +3,7 @@ engine: knitr
 #title: "Undangan"
 ---
 
-![](./IMG_5104_art.jpg)
+![](./img/IMG_5104_art.jpg)
 
 _Der Weg zur zweit ist halb so Weit_
 
