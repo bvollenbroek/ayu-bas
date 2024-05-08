@@ -3,19 +3,6 @@ engine: knitr
 page-layout: full
 ---
 
-```{css, echo = FALSE}
-.justify {
-  text-align: center
-}
-.big-font {
-  font-size: 4em
-}
-.boxy {
- padding:15px;
- font-size: 1.5em;
-}
-```
-
 ::: {.justify}
 
 ![](./img/IMG_5104.JPEG)
@@ -25,5 +12,4 @@ page-layout: full
 <button class="btn btn-lg btn-primary boxy" type="button">I'm attending!</button>
 
 :::
-
 
