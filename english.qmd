@@ -7,9 +7,15 @@ page-layout: full
 
 ![](./img/IMG_5104.JPEG)
 
-[__Ayu & Bas will marry on 7 October 2024__]{.big-font}
+# Ayu & Bas will marry on 7 October 2024
 
-[We are happy to invite you, our close friends, to our wedding. The wedding will take place in Temple Semarang. You are welcome to attend the ceremony and subsequent reception. The ceremony will start at 10:00 and the reception will finish at around 16:00. Please let us know if you can or cannot attend by pressing the button below.]{.big-para}
+We are happy to invite you, our close friends, to our wedding. 
+
+📍 Temple Semarang
+
+🗓️ 7 October 2024 from 10:00 to 16:00
+
+Please let us know if you can or cannot attend by pressing the button below.
 
 <button class="btn btn-lg btn-primary boxy" type="button">I'm attending!</button>
 
