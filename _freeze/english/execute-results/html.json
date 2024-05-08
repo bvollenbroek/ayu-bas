@@ -1,8 +1,8 @@
 {
-  "hash": "354e71d162127e177df49b67c296160a",
+  "hash": "f592c6beddcc065e603be03fd843ed82",
   "result": {
     "engine": "knitr",
-    "markdown": "---\nengine: knitr\npage-layout: full\n---\n\n\n::: {.justify}\n\n![](./img/IMG_5104.JPEG)\n\n[Ayu & Bas will marry on<br>7 October 2024 in [Semarang](www.test.nl)]{.big-font}\n\n[We are happy to invite you, our close friends, to our wedding. The wedding will take place in Temple Semarang. You are welcome to attend the ceremony and subsequent reception. The ceremony will start at 10:00 and the reception will finish at around 16:00. Please let us know if you can or cannot attend by pressing the button below.]{.big-para}\n\n<button class=\"btn btn-lg btn-primary boxy\" type=\"button\">I'm attending!</button>\n\n:::\n\n",
+    "markdown": "---\nengine: knitr\npage-layout: full\n---\n\n\n::: {.justify}\n\n![](./img/IMG_5104.JPEG)\n\n[__Ayu & Bas will marry on 7 October 2024__]{.big-font}\n\n[We are happy to invite you, our close friends, to our wedding. The wedding will take place in Temple Semarang. You are welcome to attend the ceremony and subsequent reception. The ceremony will start at 10:00 and the reception will finish at around 16:00. Please let us know if you can or cannot attend by pressing the button below.]{.big-para}\n\n<button class=\"btn btn-lg btn-primary boxy\" type=\"button\">I'm attending!</button>\n\n:::\n\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
