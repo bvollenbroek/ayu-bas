@@ -7,7 +7,9 @@ page-layout: full
 
 ![](./img/IMG_5104.JPEG)
 
-[__Ayu & Bas__ _will marry on_<br>__7 October 2024__ _in_ [__Semarang__](www.test.nl)]{.big-font}
+[Ayu & Bas will marry on<br>7 October 2024 in [Semarang](www.test.nl)]{.big-font}
+
+[We are happy to invite you, our close friends, to our wedding. The wedding will take place in Temple Semarang. You are welcome to attend the ceremony and subsequent reception. The ceremony will start at 10:00 and the reception will finish at around 16:00. Please let us know if you can or cannot attend by pressing the button below.]{.big-para}
 
 <button class="btn btn-lg btn-primary boxy" type="button">I'm attending!</button>
 
