@@ -67,4 +67,5 @@ __Om Santhi Santhi Santhi Om__
 
 <br>
 
-### __[Konfirmasi kehadiran](https://forms.gle/VCv5T69utg9H64zN6)__
+### __[Kehadiran & Pesan](https://forms.gle/VCv5T69utg9H64zN6)__
+<button class="btn btn-lg btn-primary" type="button">I'm attending!</button>
