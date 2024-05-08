@@ -1,0 +1,15 @@
+{
+  "hash": "cc4ef4540401aadaef50df79019df4df",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nengine: knitr\npage-layout: full\n---\n\n\n::: {.justify}\n\n![](./img/IMG_5104.JPEG)\n\n[__Ayu & Bas__ _will marry on_<br>__7 October 2024__ _in_ [__Semarang__](www.test.nl)]{.big-font}\n\n<button class=\"btn btn-lg btn-primary boxy\" type=\"button\">I'm attending!</button>\n\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
