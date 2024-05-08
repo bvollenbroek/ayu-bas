@@ -7,7 +7,7 @@ page-layout: full
 
 ![](./img/IMG_5104.JPEG)
 
-# Ayu & Bas will marry on 7 October 2024
+> _Der Weg zu zweit ist halb so weit_
 
 We are happy to invite you, our close friends, to our wedding. 
 
@@ -17,7 +17,7 @@ We are happy to invite you, our close friends, to our wedding.
 
 Please let us know if you can or cannot attend by pressing the button below.
 
-<button class="btn btn-lg btn-primary boxy" type="button">I'm attending!</button>
+<button class="btn btn-lg btn-primary" type="button">I'm attending!</button>
 
 :::
 

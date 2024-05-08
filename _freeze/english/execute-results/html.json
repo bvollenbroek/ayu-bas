@@ -1,8 +1,8 @@
 {
-  "hash": "2600dd2183aad8c8e47945e301dba026",
+  "hash": "6e22643c35971db12c2612e861e415e3",
   "result": {
     "engine": "knitr",
-    "markdown": "---\nengine: knitr\npage-layout: full\n---\n\n\n::: {.justify}\n\n![](./img/IMG_5104.JPEG)\n\n# Ayu & Bas will marry on 7 October 2024\n\nWe are happy to invite you, our close friends, to our wedding. \n\n📍 Temple Semarang\n\n🗓️ 7 October 2024 from 10:00 to 16:00\n\nPlease let us know if you can or cannot attend by pressing the button below.\n\n<button class=\"btn btn-lg btn-primary boxy\" type=\"button\">I'm attending!</button>\n\n:::\n\n",
+    "markdown": "---\nengine: knitr\npage-layout: full\n---\n\n\n::: {.justify}\n\n![](./img/IMG_5104.JPEG)\n\n> _Der Weg zu zweit ist halb so weit_\n\nWe are happy to invite you, our close friends, to our wedding. \n\n📍 Temple Semarang\n\n🗓️ 7 October 2024 from 10:00 to 16:00\n\nPlease let us know if you can or cannot attend by pressing the button below.\n\n<button class=\"btn btn-lg btn-primary\" type=\"button\">I'm attending!</button>\n\n:::\n\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
