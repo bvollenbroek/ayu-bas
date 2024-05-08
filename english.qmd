@@ -18,9 +18,9 @@ page-layout: full
 
 ::: {.justify}
 
-![](./IMG_5714.jpeg)
+![](./img/IMG_5104.JPEG)
 
-[__Ayu & Bas__ _will marry on_ __7 October 2024__ _in_ [__Semarang__](www.test.nl)]{.big-font}
+[__Ayu & Bas__ _will marry on_<br>__7 October 2024__ _in_ [__Semarang__](www.test.nl)]{.big-font}
 
 <button class="btn btn-lg btn-primary boxy" type="button">I'm attending!</button>
 
