@@ -1,8 +1,8 @@
 {
-  "hash": "20e8a0e955292347e7791b92a06a21c3",
+  "hash": "11580958fd35063c8cd95e4d009b9c8c",
   "result": {
     "engine": "knitr",
-    "markdown": "---\nengine: knitr\npage-layout: full\n---\n\n\n::: {.justify}\n\n![](./img/IMG_5104.JPEG)\n\n> _Der Weg zu zweit ist halb so weit_\n\nWe are happy to invite you, our close friends, to our wedding. \n\n📍 Giri Natha Temple, Semarang\n\n🗓️ 7 October 2024 from 10:00 to 16:00\n\nPlease let us know if you can or cannot attend by pressing the button below.\n\n<button class=\"btn btn-lg btn-primary\" type=\"button\">I'm attending!</button>\n\n:::\n\n",
+    "markdown": "---\nengine: knitr\npage-layout: full\n---\n\n\n::: {.justify}\n\n![](./img/IMG_5104.JPEG)\n\n> _Der Weg zu zweit ist halb so weit_\n\nWe are happy to invite you, our close friends, to our wedding. \n\n📍 Giri Natha Temple, Semarang\n\n🗓️ 7 October 2024 from 10:00 to 16:00\n\nPlease let us know if you can or cannot attend by pressing the button below.\n\n<button class=\"btn btn-primary\" type=\"button\">I'm attending!</button>\n\n:::\n\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
