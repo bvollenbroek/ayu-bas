@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: sketchy
+    theme: [sketchy, theme.scss]
     css: styles.css
     toc: true
 
