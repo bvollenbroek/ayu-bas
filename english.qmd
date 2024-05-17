@@ -17,7 +17,7 @@ We are happy to invite you, our close friends, to our wedding.
 
 Please let us know if you can or cannot attend by pressing the button below.
 
-<button class="btn btn-primary" type="button">I'm attending!</button>
+<a href="https://forms.gle/VCv5T69utg9H64zN6" class="btn btn-primary" type="button">I'm attending!</a>
 
 :::
 
