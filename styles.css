@@ -8,7 +8,7 @@
   border-radius: 5px;       /* Rounded corners */
   margin: auto;           /* Margin above and below the box */
   border: 1px solid #dcdcdc; /* Optional: light gray border */
-  width: 50%;
+  width: 100%;
   justify-content: center;  
 }
 
