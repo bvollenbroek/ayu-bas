@@ -3,16 +3,20 @@ engine: knitr
 toc: false
 ---
 
+::: {.justify}
+
 ![](./img/IMG_5104_art.jpg)
 
 > _Der Weg zur zweit ist halb so Weit_
 
-## __Ayu & Bas__
+## Ayu & Bas
 
 (Will put some nice words: I think either from Philo or Veda)
 
+<br> 
 
-### Pawiwahan
+
+# Pawiwahan
 
 __Om Swastiastu__
 
@@ -20,7 +24,6 @@ Atas Asung Kertha Wara Nugraha Ida Sang Hyang Widhi Wasa dengan penuh sukacita, 
 
 <br> 
 
-::: {.justify}
 
 __Ayu Paramudita__, putri dari I Komang Sumardika & Rita Sri Purnami
 
@@ -28,22 +31,9 @@ _dengan_
 
 __Bas Vollenbroek__, putra dari Gerrit Vollenbroek & Maria Gunnewijk
 
-:::
 
 <br>
 
-Merupakan kehormatan serta kebahagiaan bagi kami apabila, Bapak / Ibu / Saudara / i. berkenan hadir dan memberikan do'a restu kepada Putri - Putra kami.
-
-Atas kehadiran dan doa restunya, kami ucapkan terima kasih.
-
-Kami yang berbahagia,
-
-_Keluarga I Komang Sumardika dan Gerrit Vollenbroek_
-
-__Om Santhi Santhi Santhi Om__
-
-
-### Panggonan lan wektu
 
 __Upacara Manusa Yadnya Pawiwahan__
 
@@ -52,7 +42,12 @@ __Upacara Manusa Yadnya Pawiwahan__
 📍 __[Pura Agung Giri Natha Semarang](https://maps.app.goo.gl/d9geChkbJJ1JtB4T6)__
 
 
-__Resepsi__
+<br>
+
+Merupakan kehormatan serta kebahagiaan bagi kami apabila, Bapak / Ibu / Saudara / i. berkenan hadir dan memberikan do'a restu kepada Putri - Putra kami pada:
+
+
+__Syukuran__
 
 🗓 __7 Oktober 2024__ | 12.00 - 13.00 WIB
 
@@ -60,8 +55,19 @@ __Resepsi__
 
 <br>
 
-::: {.justify} 
 
-<a href="https://forms.gle/VCv5T69utg9H64zN6" class="btn btn-lg btn-primary" type="button">Kehadiran & Pesan</a>
+<a href="https://forms.gle/VCv5T69utg9H64zN6" class="btn btn-lg btn-primary" type="button">Klik untuk Kehadiran & Pesan</a>
+
+
+<br>
+
+
+Atas kehadiran dan doa restunya, kami ucapkan terima kasih.
+
+Kami yang berbahagia,
+
+_Keluarga I Komang Sumardika dan Gerrit Vollenbroek_
+
+__Om Santhi Santhi Santhi Om__
 
 :::
