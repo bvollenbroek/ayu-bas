@@ -9,7 +9,7 @@ toc: false
 
 > _Der Weg zur zweit ist halb so Weit_
 
-## Ayu & Bas
+# Ayu & Bas
 
 _Anvārabhethām anusam-rabhethām,_
 _Etam lokam srad-dadhānāh sacante._
@@ -38,7 +38,7 @@ __Bas Vollenbroek__, putra dari Gerrit Vollenbroek & Maria Gunnewijk
 
 <br>
 
-::: {.gray-box .justify}
+::: {.gray-box}
 
 __Upacara Manusa Yadnya Pawiwahan__
 
@@ -52,6 +52,9 @@ __Upacara Manusa Yadnya Pawiwahan__
 
 Merupakan kehormatan serta kebahagiaan bagi kami apabila, Bapak / Ibu / Saudara / i. berkenan hadir dan memberikan do'a restu kepada Putri - Putra kami pada:
 
+<br>
+
+::: {.gray-box}
 
 __Syukuran__
 
@@ -59,8 +62,9 @@ __Syukuran__
 
 📍 __[Pura Agung Giri Natha Semarang](https://maps.app.goo.gl/d9geChkbJJ1JtB4T6)__
 
-<br>
+:::
 
+<br>
 
 <a href="https://forms.gle/VCv5T69utg9H64zN6" class="btn btn-lg btn-primary" type="button">Klik untuk Kehadiran & Pesan</a>
 

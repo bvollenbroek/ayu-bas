@@ -6,9 +6,9 @@
   background-color: #f0f0f0; /* Light gray background */
   padding: 15px;            /* Padding inside the box */
   border-radius: 5px;       /* Rounded corners */
-  margin: 10px 0;           /* Margin above and below the box */
+  margin: auto;           /* Margin above and below the box */
   border: 1px solid #dcdcdc; /* Optional: light gray border */
-  width: 300px;
+  width: 100%;
   justify-content: center;  
 }
 
