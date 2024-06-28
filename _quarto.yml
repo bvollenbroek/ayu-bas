@@ -11,6 +11,13 @@ website:
         text: 🇬🇧
       - href: bahasa.qmd
         text: 🇮🇩
+  page-footer: 
+    center: 
+      - text: "Made with love by Ayu & Bas"
+      - icon: github
+        href: https://github.com/bvollenbroek/ayu-bas
+        
+        
 
 format:
   html:
