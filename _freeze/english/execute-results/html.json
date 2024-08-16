@@ -1,8 +1,8 @@
 {
-  "hash": "ca9449188c7277d364df0b399b82dcbe",
+  "hash": "87454508434b8a60b471feb417b42057",
   "result": {
     "engine": "knitr",
-    "markdown": "---\nengine: knitr\npage-layout: full\n---\n\n\n::: {.justify}\n\n![](./img/IMG_5104.JPEG)\n\n> _Der Weg zu zweit ist halb so Weit_\n\nWe are happy to invite you, our close friends, to our wedding. \n\n📍 [Giri Natha Temple, Semarang](https://osm.org/go/tbyAWoiHn?m=&way=334351005)\n\n🗓️ 7 October 2024 from 08:00 to 14:00\n\nPlease let us know if you can or cannot attend by pressing the button below.\n\n<a href=\"https://forms.gle/VCv5T69utg9H64zN6\" class=\"btn btn-primary\" type=\"button\">I'm attending!</a>\n\n:::\n\n",
+    "markdown": "---\nengine: knitr\npage-layout: full\n---\n\n\n\n\n::: {.justify}\n\n![](./img/IMG_5104.JPEG)\n\n> _Der Weg zu zweit ist halb so Weit_\n\nWe are happy to invite you, our close friends, to our wedding. \n\n📍 [Giri Natha Temple, Semarang](https://maps.app.goo.gl/d9geChkbJJ1JtB4T6)\n\n🗓️ 7 October 2024 from 08:00 to 14:00\n\nPlease let us know if you can or cannot attend by pressing the button below.\n\n<a href=\"https://forms.gle/VCv5T69utg9H64zN6\" class=\"btn btn-primary\" type=\"button\">I'm attending!</a>\n\n:::\n\n",
     "supporting": [
       "english_files"
     ],
